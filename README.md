@@ -333,9 +333,3 @@ project-report.pdf
 ```
 
 ---
-
-## ⭐ Acknowledgement
-
-We would like to express our sincere gratitude to the Department of Computer Science and Business Systems, Saranathan College of Engineering, and our project guide for their guidance, encouragement, and valuable suggestions throughout the development of this project.
-
----
